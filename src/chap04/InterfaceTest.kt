@@ -1,4 +1,4 @@
-package chaptor4
+package chap04
 
 interface User {
     val nickname: String
